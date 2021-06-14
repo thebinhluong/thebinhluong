@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @thebinhluong .
+- 👀 I’m interested in Hackintosh and Linux.
+- 🌱 I’m currently learning Java, Go and React Native.
+- 📫 How to reach me : lgthebinh0519@outlook.com and Github.
